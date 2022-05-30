@@ -1,4 +1,4 @@
 # SPDX-License-Identifier: Apache-2.0 WITH LLVM-exception
 [submodule "utils/ewasm-testbench"]
 	path = utils/ewasm-testbench
-	url = ../soll-ewasm-testbench.git
+	url = https://github.com/second-state/soll-ewasm-testbench.git
